@@ -110,5 +110,3 @@ This works as long as you have the `rerun` formatter enabled.
 For example a JUnit formatter:
 
     -Dcucumber.options="--plugin junit:target/cucumber-junit-report.xml"
-
-This is a test
