@@ -30,11 +30,11 @@
     -->
     <snapshotRepository>
       <id>art-ss-repo</id>
-      <url>http://192.168.1.5:8081/artifactory/libs-snapshot</url>
+      <url>http://192.168.0.16:8081/artifactory/libs-snapshot</url>
     </snapshotRepository>
     <repository>
       <id>art-r-repo</id>
-      <url>http://192.168.1.5:8081/artifactory/libs-release</url>
+      <url>http://192.168.0.16:8081/artifactory/libs-release</url>
     </repository>
   </distributionManagement>
 
