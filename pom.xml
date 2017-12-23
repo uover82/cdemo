@@ -3,14 +3,14 @@
 
   <groupId>cucumber</groupId>
   <artifactId>cucumber-java-skeleton</artifactId>
-  <version>0.0.16</version>
+  <version>0.0.17-SNAPSHOT</version>
   <packaging>jar</packaging>
   <name>Cucumber-Java Skeleton</name>
 
   <scm>
     <connection>scm:git:https://git@github.com/uover82/cdemo.git</connection>
     <developerConnection>scm:git:https://git@github.com/uover82/cdemo.git</developerConnection>
-    <tag>cucumber-java-skeleton-0.0.16</tag>
+    <tag>cucumber-java-skeleton-0.0.3</tag>
   </scm>
 
   <properties>
