@@ -34,5 +34,3 @@ To release:
 
 To clean: mvn release:clean
    rollback: mvn release:rollback
-
-this ia a test
